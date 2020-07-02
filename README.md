@@ -1,4 +1,4 @@
-# viz-homework
+# GoodReads Dataset Visualization
 
 Greatest figure that helps me to interpret my data is
 ![a](topratedmostpopular.png)
